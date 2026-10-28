@@ -43,8 +43,7 @@
       "Bash(for f:*)",
       "Bash(do mv:*)",
       "Bash(taskkill /F /IM dotnet.exe)",
-      "mcp__uno-app__uno_app_element_peer_default_action",
-      "Bash(powershell *)"
+      "mcp__uno-app__uno_app_element_peer_default_action"
     ]
   }
 }
