@@ -1,3 +1,5 @@
+> **Moved to uno-lab.** This project now lives in the `Meridian/` folder of [noknowscode/uno-lab](https://github.com/noknowscode/uno-lab/tree/main/Meridian) (private). This repository is archived and kept for its history.
+
 # Meridian Capital Terminal (Dark)
 
 A desktop stock market dashboard: portfolio value and holdings, sector allocation, per-stock chart drill-down, a watchlist and a mock trade drawer. Charts are drawn with SkiaSharp and all data is mock.
